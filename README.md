@@ -12,5 +12,5 @@
 
 ### 1. Клонування репозиторію
 ```bash
-git clone [https://github.com/ВАШ_КОРИСТУВАЧ/weather_telegram_bot.git](https://github.com/ВАШ_КОРИСТУВАЧ/weather_telegram_bot.git)
-cd weather_telegram_bot
+https://github.com/SerhiiDonkin/PythonTGbot.git
+cd PythonTGbot
