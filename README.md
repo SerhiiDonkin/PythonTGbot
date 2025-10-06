@@ -8,6 +8,8 @@
 * `requests` (версія 2.32.5)
 * OpenWeatherMap API
 
+![Приклад](https://i.ibb.co/ksFX1ykr/Sample.png)
+
 ## Встановлення та Запуск
 
 ### 1. Клонування репозиторію
@@ -15,4 +17,3 @@
 git clone https://github.com/SerhiiDonkin/PythonTGbot.git
 cd PythonTGbot
 
-![Приклад](https://i.ibb.co/ksFX1ykr/Sample.png)
