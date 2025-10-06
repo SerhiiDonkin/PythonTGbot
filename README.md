@@ -14,3 +14,5 @@
 ```bash
 git clone https://github.com/SerhiiDonkin/PythonTGbot.git
 cd PythonTGbot
+
+![Приклад](https://i.ibb.co/ksFX1ykr/Sample.png)
