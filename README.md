@@ -12,5 +12,5 @@
 
 ### 1. Клонування репозиторію
 ```bash
-https://github.com/SerhiiDonkin/PythonTGbot.git
+git clone https://github.com/SerhiiDonkin/PythonTGbot.git
 cd PythonTGbot
